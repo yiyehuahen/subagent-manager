@@ -1,0 +1,9 @@
+{
+  "name": "subagent-manager",
+  "version": "1.0.0",
+  "description": "子Agent任务队列管理技能",
+  "main": "index.js",
+  "keywords": ["subagent", "task-queue", "manager"],
+  "author": "紫馨",
+  "license": "MIT"
+}
